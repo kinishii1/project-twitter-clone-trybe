@@ -25,11 +25,11 @@ function Home() {
       {tweets.map((tweet) => (
         <Tweet
           key={tweet.id}
-          comments={tweet.CommentsCount}
+          comments={tweet.commentsCount}
           image={tweet.owner.profilePicture}
-          likes={tweet.LikesCount}
+          likes={tweet.likesCount}
           name={tweet.owner.name}
-          retweets={tweet.RetweetsCount}
+          retweets={tweet.retweetsCount}
           tweet={tweet.tweet}
           username={tweet.owner.username}
         />
