@@ -49,5 +49,5 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **Kin Ishii** - *WebDev Student* - [Kin Ishii](https://github.com/kinishii1/) - *Built ReadME Template*
+* **Kin Ishii** - *WebDev Student* - [Kin Ishii](https://github.com/kinishii1/) 
 * **ShaanCoding** - *Comp Sci Student* - [ShaanCoding](https://github.com/ShaanCoding/) - *Built ReadME Template*
