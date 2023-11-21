@@ -1,0 +1,66 @@
+.page {
+	display: grid;
+	grid-template-areas: 
+	"nav main";
+	grid-template-columns: 260px 1fr;
+	max-width: 1280px;
+	margin: 0 auto;
+	min-height: 1000px;
+}
+
+main {
+	grid-area: main;
+}
+
+.nav {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	grid-area: nav;
+	display: flex;
+	flex-direction: column;
+	margin: 20px 0px 0px 0px;
+}
+
+.nav img {
+	margin-right: 25px;
+	margin-top: -2px;
+}
+
+.nav button {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: 600;
+	color: white;
+	text-align: center;
+	margin: 40px 0px 0px 12px;
+	padding: 10px 15px;
+	border-radius: 30%;
+	border-radius: 25px;
+    background: #1EB71F;
+	cursor: pointer;
+	width: 220px;
+}
+
+.nav button:hover {
+ cursor: pointer;
+ background-color: #138b13;
+ transition: 1ms;
+}
+
+.nav a {
+	display: flex;
+	text-decoration: none;
+	color: black;
+	padding: 15px 20px;
+	cursor: pointer;
+}
+
+.active {
+	font-weight: 600;
+}
+
+.nav a:hover {
+	border-radius: 30%;
+	border-radius: 25px;
+  	background: #E7E7E8;
+}

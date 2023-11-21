@@ -1,0 +1,49 @@
+.home-page {
+    max-width: 100%;
+}
+
+.loading-page {
+    max-height: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.new-tweet-card {
+
+    height: 150px;
+    background-color: #eee;
+}
+
+.new-tweet-card input {
+    height: 120px;
+    width: 800px;
+    border: 1px solid #eee;
+    margin: 12px 10px 0px 40px;
+    font-size: 20px;
+    padding-left: 10px;
+    border-radius: 30%;
+    border-radius: 25px;
+}
+
+.new-tweet-card button {
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: 600;
+	color: white;
+	text-align: center;
+	padding: 10px 15px;
+	border-radius: 30%;
+	border-radius: 25px;
+    background: #1EB71F;
+	cursor: pointer;
+	width: 110px;
+	margin: 40px 0px 0px 20px;
+}
+
+.new-tweet-card button:hover {
+    cursor: pointer;
+    background-color: #138b13;
+    transition: 1ms;
+   }
