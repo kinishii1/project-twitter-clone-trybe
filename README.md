@@ -17,7 +17,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](/Capturar.PNG)
 
 This project was created with the aim of practicing and enhancing skills in React Router and TypeScript. Additionally, React Icons were utilized to enrich the user interface and improve the overall user experience.
 
