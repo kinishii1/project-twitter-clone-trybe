@@ -7,7 +7,7 @@
   <h3 align="center">Twitter Clone Project Trybe</h3>
 
   <p align="center">
-    An simple twitter clone for practice purpose
+    An simple twitter clone for practical purpose
     <br/>
     <br/>
   </p>
